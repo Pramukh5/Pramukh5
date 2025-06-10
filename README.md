@@ -18,7 +18,6 @@ A passionate Full Stack Developer & Computer Science Student from Bengaluru, Ind
 🌱 I’m currently learning React, Node.js, System Design  
 💬 Ask me about JavaScript, Python, Web Development  
 📫 How to reach me pramukhathish@gmail.com  
-📞 Contact me at +91-8792390481
 
 Connect with me:
 
