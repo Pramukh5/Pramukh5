@@ -38,6 +38,7 @@
 ### 🚀 Notable Projects
 
 - **EduAI Assistant**
+  - 🔗 [Visit Site](https://eduaibotdraft.vercel.app/)
   - Built using: `Next.js`, `TypeScript`, `Puter.js AI`
   - 💡 Features: Interactive learning, quizzes, tutoring with responsive UI
 
